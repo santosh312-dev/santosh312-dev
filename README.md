@@ -1,85 +1,115 @@
-# 👋 Hi, I'm Santosh Sharma
+<!-- 🔥 Animated Header -->
+<h1 align="center">Hi 👋, I'm Santosh Sharma</h1>
 
-💻 Full Stack Developer | Computer Science Educator  
-📍 Kathmandu, Nepal | Open to opportunities in Tech | IT | Field
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Computer+Science+Educator;Python+Django+React+Developer;8%2B+Years+Experience&center=true&width=500&height=45">
+</p>
 
----
+<p align="center">
+  📍 Kathmandu, Nepal | 🌍 Open to opportunities in Tech | IT | Field
+</p>
 
-## 🚀 About Me
-
-I am a passionate Full Stack Developer and Computer Science Teacher with 8+ years of experience in software development and education.
-
-I specialize in building real-world applications using modern technologies like Python, Django, and React. Alongside development, I have mentored 100+ students and guided them to create innovative projects, fostering practical and problem-solving skills.
-
-I enjoy working on impactful solutions, automation systems, and scalable web applications.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-Python | JavaScript | C  
-
-**Frontend:**  
-HTML | CSS | React.js | Bootstrap | Tailwind CSS  
-
-**Backend:**  
-Django | REST APIs  
-
-**Database:**  
-MySQL  
-
-**Tools & Platforms:**  
-Git | GitHub | WordPress  
-
-**Other Skills:**  
-Prompt Engineering | Teaching & Mentorship  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=santosh312-dev&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 About Me  
 
-### 🔹 Digital Election System
-- Secure voting system with real-time result processing  
-- Built using Django, JavaScript, and MySQL  
-- Focused on data integrity and usability  
-
-### 🔹 Library Management System
-- Database-driven system for managing books and users  
-- Implemented issue/return tracking and record automation  
-
-### 🔹 Quiz Automation System
-- Interactive quiz system built using PowerPoint automation  
-- User-controlled navigation and dynamic question flow  
-
-### 🔹 Student Project Mentorship
-- Guided 20+ projects including web apps, Python tools, and automation systems  
+💻 Full Stack Developer & Computer Science Educator with **8+ years of experience**  
+🎯 Specialized in **Python, Django, React & real-world systems**  
+👨‍🏫 Mentored **100+ students** & guided **20+ projects**  
+🏆 Strong background in **problem-solving, automation & scalable apps**  
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Stack  
 
-- 🥇 Mentored students for international-level competitions (AI for Good Global Summit – Geneva)  
-- 🏫 Founded and led IT & Robotics Clubs  
-- 🏅 Recognized as Prominent Teacher by PABSON Kathmandu  
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
-## 🎯 Current Focus
-
-- Building scalable full stack web applications  
-- Enhancing UI/UX in web projects  
-- Exploring AI-powered development tools  
-
----
-
-## 📫 Connect With Me
-
-📧 Email: santosh.sharma.dev312@gmail.com  
-🌐 Portfolio: https://santosh312-dev.github.io/santosh-portfolio/  
-💼 LinkedIn: https://www.linkedin.com/in/santosh8421/  
-💻 GitHub: https://github.com/santosh312-dev  
+</p>
 
 ---
 
-⭐ *“Building practical solutions through code and empowering others through technology.”*
+## 🚀 Featured Projects  
+
+### 🗳️ Digital Election System  
+✔ Secure real-time voting system  
+✔ Built with Django, JavaScript & MySQL  
+✔ Focus on data integrity & performance  
+
+---
+
+### 📚 Library Management System  
+✔ Efficient book & user management  
+✔ Automated issue/return system  
+
+---
+
+### 🎯 Quiz Automation System  
+✔ Interactive quiz platform using PowerPoint  
+✔ Dynamic navigation & user control  
+
+---
+
+## 🏆 Achievements  
+
+🥇 Mentored students for **AI for Good Global Summit – Geneva**  
+🏫 Founded IT & Robotics Clubs  
+🏅 Recognized as Prominent Teacher – PABSON Kathmandu  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santosh312-dev&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santosh312-dev&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosh312-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus  
+
+🚀 Building production-level full stack applications  
+🎨 Improving UI/UX design  
+🤖 Exploring AI-powered development  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:santosh.sharma.dev312@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santosh8421/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://santosh312-dev.github.io/santosh-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>"Building practical solutions through code and empowering others through technology."</b>
+</p>
