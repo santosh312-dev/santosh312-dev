@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Santosh Sharma
 
 💻 Full Stack Developer | Computer Science Educator  
-📍 Kathmandu, Nepal | Open to opportunities in Nepal & Dubai  
+📍 Kathmandu, Nepal | Open to opportunities in Tech | IT | Field
 
 ---
 
